@@ -1,0 +1,33 @@
+
+body {
+background: rgb(145, 245, 248); <!--background é para acresentar uma cor de fundo -->
+margin-left: 100px;
+}
+
+header{
+    margin-top: 70px;
+}
+
+h1{
+    color: blue;
+    font-family: fantasy;
+}
+h2{
+    font-family: fantasy;
+}
+
+p {
+    font-size: 18px;
+}
+img {
+    margin-bottom: 20px;
+}
+
+.img_email {
+margin: 0%;
+}
+
+.img_tel{
+    margin-bottom: 0%;
+    margin-left: 10px;
+}
